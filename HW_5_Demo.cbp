@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="HW_5_Demo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/HW_5_Demo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/HW_5_Demo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Order Number.txt" />
+		<Unit filename="arm.h" />
+		<Unit filename="arm.txt" />
+		<Unit filename="battery.h" />
+		<Unit filename="battery.txt" />
+		<Unit filename="catalog.txt" />
+		<Unit filename="component_info.cpp" />
+		<Unit filename="component_info.h" />
+		<Unit filename="comptorob.cpp" />
+		<Unit filename="comptorob.h" />
+		<Unit filename="customer.cpp" />
+		<Unit filename="customer.h" />
+		<Unit filename="head.h" />
+		<Unit filename="head.txt" />
+		<Unit filename="locomotor.h" />
+		<Unit filename="locomotor.txt" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu.cpp" />
+		<Unit filename="menu.h" />
+		<Unit filename="productmanager.cpp" />
+		<Unit filename="productmanager.h" />
+		<Unit filename="robot_model.cpp" />
+		<Unit filename="robot_model.h" />
+		<Unit filename="salesassociate.cpp" />
+		<Unit filename="salesassociate.h" />
+		<Unit filename="std_lib_facilities.h" />
+		<Unit filename="torso.h" />
+		<Unit filename="torso.txt" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

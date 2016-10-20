@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1476944636 source:c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<strings.h>
+	"std_lib_facilities.h"
+	"component_info.h"
+	"robot_model.h"
+	"vector"
+	"menu.h"
+
+1473548576 c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\std_lib_facilities.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<list>
+	<vector>
+	<algorithm>
+	<stdexcept>
+	<ext/hash_map>
+	<iomanip>
+
+1476237945 c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\locomotor.h
+	<string>
+
+1476237959 c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\arm.h
+	<string>
+
+1475721069 c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\head.h
+	<string>
+
+1476237975 c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\battery.h
+	<string>
+
+1475721085 c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\torso.h
+	<string>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+
+1476335871 source:c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\component_info.cpp
+	"stdafx.h"
+	"std_lib_facilities.h"
+	"component_info.h"
+	<string>
+	<iostream>
+	<iomanip>
+
+1476335908 c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\component_info.h
+	<iostream>
+	<string>
+	"locomotor.h"
+	"arm.h"
+	"battery.h"
+	"torso.h"
+	"head.h"
+
+1476232137 source:c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\robot_model.cpp
+	"stdafx.h"
+	"component_info.h"
+	<string>
+	<iostream>
+	"robot_model.h"
+
+1476235765 c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\robot_model.h
+	<iostream>
+	<string>
+	"component_info.h"
+
+1476942045 c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\menu.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<strings.h>
+	"std_lib_facilities.h"
+	"component_info.h"
+	"robot_model.h"
+	"vector"
+	"comptorob.h"
+	"customer.h"
+	"salesassociate.h"
+
+1476948292 source:c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\menu.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<strings.h>
+	"std_lib_facilities.h"
+	"component_info.h"
+	"robot_model.h"
+	"vector"
+	"menu.h"
+	"comptorob.h"
+	"customer.h"
+	"productmanager.h"
+	"salesassociate.h"
+
+1476833803 source:c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\comptorob.cpp
+	"comptorob.h"
+	<string>
+	<iostream>
+
+1476833228 c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\comptorob.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<strings.h>
+	"std_lib_facilities.h"
+	"component_info.h"
+	"robot_model.h"
+	"vector"
+	"menu.h"
+
+1476941061 c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\customer.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<strings.h>
+	"std_lib_facilities.h"
+	"component_info.h"
+	"robot_model.h"
+	"vector"
+	"menu.h"
+
+1476941477 source:c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\customer.cpp
+	"customer.h"
+	<string>
+	<iostream>
+
+1476929898 c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\productmanager.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<strings.h>
+	"std_lib_facilities.h"
+	"component_info.h"
+	"robot_model.h"
+	"vector"
+	"menu.h"
+
+1476925317 source:c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\productmanager.cpp
+	<string>
+	<iostream>
+	"productmanager.h"
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"std_lib_facilities.h"
+	"component_info.h"
+	"robot_model.h"
+	"menu.h"
+	"vector"
+	"comptorob.h"
+	"customer.h"
+
+1476942114 c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\salesassociate.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<strings.h>
+	"std_lib_facilities.h"
+	"component_info.h"
+	"robot_model.h"
+	"vector"
+	"menu.h"
+	"customer.h"
+
+1476942173 source:c:\users\anishkumar\dropbox\semester 3\courses\cse-1325\homework_5_update_1\hw_5_demo\hw_5_demo\salesassociate.cpp
+	"salesassociate.h"
+	"customer.h"
+	<string>
+	<iostream>
+
